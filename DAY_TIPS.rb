@@ -23,3 +23,5 @@ DB.results_as_hash = true
 doctor = doctors.first # => { "name" => "John Smith", "age" => 39 , 0 => "John Smith", 1 => 39 }
 name_of_first_doctor = doctor["name"] # => "John Smith"
 age_of_first_doctor = doctor["age"] # => 39s
+
+# LAST BUT NOT LEAST, REMEMBER THE MAGIC WORD "WHERE"
