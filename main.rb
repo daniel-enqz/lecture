@@ -22,7 +22,7 @@ ORDER BY price ASC;
 # Usuing SQLite3
 # READ = (SELECT ... FROM table_name)
 # SELECT * FROM doctors;
-# SELECT * FROM doctors WHERE id = 1;
+# SELECT * FROM doctors WHERE id = 7;
 # SELECT name FROM doctors WHERE name LIKE '%John%';
 
 
